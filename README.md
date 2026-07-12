@@ -12,7 +12,7 @@ capas desacopladas, API REST, dashboard interactivo y reportes automáticos.
 
 - [x] Etapa 0 — Preparación y repositorio
 - [x] Etapa 1 — Capa de datos (modelos, seed, ingesta EUR/USD real)
-- [ ] Etapa 2 — API REST (Flask)
+- [X] Etapa 2 — API REST (Flask)
 - [ ] Etapa 3 — Motores de análisis (volatilidad, correlaciones, alertas)
 - [ ] Etapa 4 — Dashboard (Streamlit)
 - [ ] Etapa 5 — Reportes PDF
@@ -49,7 +49,14 @@ python scripts/init_db.py
 
 ## Equipo
 
-_(Completar con los nombres de los integrantes del grupo)_
+Pablo Vladimir Toapanta Nicolalde,
+Jaime Antonio Smith Gellibert,
+Felix Angel López Moreno,
+Ariadna Garcia de Dios,
+Elizabeth Melo Quintana,
+Valentina Russi,
+David Vargas Sarasqueda,
+Precy Javier Cazorla Yesan,
 
 ## Licencia
 
